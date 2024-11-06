@@ -71,13 +71,14 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
   - Maintained products on the production website.
   - Provided more accurate information to customers using various MongoDB queries.
 
-- **English Teacher** at **English Centre**, 2019 - 2020
+- **English Teacher** | 2019 - 2020 | **English Centre** | South Jakarta, Greater Jakarta
 
   - Provided daily academic support and guidance to a diverse group of 8 students, including assistance with assignments and projects, and addressing any questions or concerns they had throughout the school day.
   - Assisted in the preparation of lesson plans, incorporating various teaching methods and activities to enhance student engagement and learning outcomes.
   - Monitored and recorded the progress of 40 students, evaluated their performance, and documented their academic achievements.
 
-- **IELTS Trainer** at **English Studio**, 2019 - 2019
+- **English Teacher** | 2018 - 2019 | **[English Studio](https://englishstudio.id/)** | South Jakarta, Greater Jakarta
+
   - Designed and delivered effective lessons to various classes of students, ranging from General English to IELTS General Training.
   - Implemented regular mock tests and exercises to improve students' grammar and speaking skills, and provided constructive feedback to help them reach their goals.
   - Prepared lesson plans tailored to the needs and abilities of each class, and incorporated various teaching methods and materials to enhance student engagement and learning outcomes.
