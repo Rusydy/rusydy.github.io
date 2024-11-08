@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: setup laravel
-category: tech
+category: tech, php, laravel
 ---
 
 Before creating your first Laravel project, you should ensure that your local machine has PHP and [Composer](https://getcomposer.org) installed. If you are developing on macOS, PHP and Composer can be installed via [Homebrew](https://brew.sh/). In addition, we recommend [installing Node and NPM](https://nodejs.org).
