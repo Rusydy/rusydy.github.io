@@ -16,8 +16,11 @@ Or, you may create new Laravel projects by globally installing the Laravel insta
 
 ```bash
 composer global require laravel/installer
+
 composer global config bin-dir --absolute # It will return the path to the directory
+
 export PATH="$PATH:/path/to/composer/bin" # Replace /path/to/composer/bin with the path obtained in the previous step
+
 source ~/.zshrc # or source ~/.bashrc
 ```
 
