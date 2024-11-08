@@ -68,8 +68,41 @@ table, th, td {
 }
 
 code {
-  color: white;
-  background: black;
+  color: #f8f8f2; /* Text color */
+  background: #282a36; /* Background color */
+  padding: 0.2em 0.4em; /* Padding around the code */
+  border-radius: 4px; /* Rounded corners */
+  font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; /* Monospaced font */
+  font-size: 0.9em; /* Font size */
+  line-height: 1.5; /* Line height */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+}
+
+.highlight {
+  position: relative;
+  overflow: auto;
+  padding: 1rem;
+}
+
+.highlight pre {
+  margin: 0;
+  padding: 0;
+  background: none;
+}
+
+.highlight .lineno {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3em;
+  padding: 1rem 0;
+  text-align: right;
+  color: #888;
+  border-right: 1px solid #ddd;
+}
+
+.highlight code {
+  padding-left: 4em;
 }
 
 div.highlighter-rouge code {
