@@ -15,8 +15,10 @@ Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus
 {: data-content="discussions"}
 
 This article has been discussed here:
+<!-- markdownlint-disable MD042 -->
 - [lobste.rs](#)
 - [/r/webdev](#)
+<!-- markdownlint-enable MD042 -->
 
 Feel free to reach out at my email to leave feedback and talk about the article.
 
