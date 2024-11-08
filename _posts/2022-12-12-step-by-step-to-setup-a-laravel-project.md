@@ -38,4 +38,4 @@ cd example-app 
 php artisan serve
 ```
 
-Once you have started the Artisan development server, your application will be accessible in your web browser at `http://localhost:8000`. Next, you're ready to [start taking your next steps into the Laravel ecosystem](https://laravel.com/docs/9.x/installation#next-steps). Of course, you may also want to [configure a database](https://laravel.com/docs/9.x/installation#databases-and-migrations).
+Once you have started the Artisan development server, your application will be accessible in your web browser at `http://localhost:8000`. Next, you're ready to <a href="https://laravel.com/docs/11.x/installation#next-steps" target="_blank">start taking your next steps into the Laravel ecosystem</a>. Of course, you may also want to <a href="https://laravel.com/docs/11.x/installation#databases-and-migrations" target="_blank">configure a database</a>.
