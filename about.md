@@ -31,6 +31,7 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
   9. Created a Task Management System using Laravel and Vue.js for admin site for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
   10. Created platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis
   11. Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
+  12. IT Consultant for PT. Enkripa Teknologi Indonesia regarding ISO 27001 preparation under PT. Dewa Catur Solusi
 
 ### **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
 
