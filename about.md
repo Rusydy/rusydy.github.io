@@ -5,20 +5,20 @@ title: About
 
 Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brief summary of my education and work experience.
 
-> Education
+## Education
 
 - Bachelor of Engineering, STMIK Jakarta, 2025
 
-> Work Experience
+## Work Experience
 
-- **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
+### **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
 
   - Provide detailed CS Ticket Documentation using Confluence and Jira, streamlining communication between Mekari's customer service and development teams.
   - Enhanced and maintained the full-stack repository for Mekari's accounting software (Jurnal) with Ruby on Rails, Kafka, MySQL, and Redis.
   - Improved and managed the microservices repository for Mekari's accounting software (Jurnal) using Go, Kafka, MySQL, and Redis.
   - Upgraded and maintained the frontend repository for Mekari's accounting software (Jurnal) with Vue.js and TypeScript.
 
-- **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
+### **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
 
   - Contributed to creating APIs and databases for KPI applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
   - Contributed to creating APIs, databases, and connections to printers using Laravel Backpack and PostgreSQL for Avatar Regulated Agent.
@@ -32,7 +32,7 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
   - Created platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis
   - Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
 
-- **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
+### **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
 
   - Trained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.
   - Led a team of five to create the CS-Ticket Documentation, which included case categorisation, methods, tools, and case studies.
@@ -51,7 +51,7 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
   - Contributed to create spreadsheet bots using Google Sheets API, Google Drive API, PostgreSQL and Node.js for Koinworks' internal use.
   - Created a chatbot using WhatsApp Cloud API, WhatsApp Business Flow, PostgreSQL, and Python (Flask) for Koinworks' registration process and marketing.
 
-- **Software Engineer** | 11/2021 - 04/2022 | **[PT Surya Fajar Urun Dana (SF Group)](https://sfund.id/)** | South Jakarta, Greater Jakarta
+### **Software Engineer** | 11/2021 - 04/2022 | **[PT Surya Fajar Urun Dana (SF Group)](https://sfund.id/)** | South Jakarta, Greater Jakarta
 
   - Implemented and managed host-to-host connections for banking transactions using virtual account and hold-and-unhold APIs provided by Danamon Bank.
   - Implemented and managed host-to-host connections for company/fundraiser registration module using a third-party API provided by ALUDI (Indonesian Association for Security Crowdfunding).
@@ -65,25 +65,25 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
   - Conducted fraud testing and UAT on banking API (Danamon Bank).
   - Wrote technical documentation, including user guides, admin features, and code architectures, to ensure a secure, clean, clear, scalable, and well-documented code base.
 
-- **Backend Developer** | 01/2021 - 04/2022 | **[Pigijo (SF Group)](https://pigijo.com/)** | South Jakarta, Greater Jakarta
+### **Backend Developer** | 01/2021 - 04/2022 | **[Pigijo (SF Group)](https://pigijo.com/)** | South Jakarta, Greater Jakarta
 
   - Developed analytical dashboard to monitor operational efficiency and developed new features such as ordering flight tickets and payment methods.
   - Maintained products on the production website.
   - Provided more accurate information to customers using various MongoDB queries.
 
-- **English Teacher** | 2019 - 2020 | **English Centre** | South Jakarta, Greater Jakarta
+### **English Teacher** | 2019 - 2020 | **English Centre** | South Jakarta, Greater Jakarta
 
   - Provided daily academic support and guidance to a diverse group of 8 students, including assistance with assignments and projects, and addressing any questions or concerns they had throughout the school day.
   - Assisted in the preparation of lesson plans, incorporating various teaching methods and activities to enhance student engagement and learning outcomes.
   - Monitored and recorded the progress of 40 students, evaluated their performance, and documented their academic achievements.
 
-- **English Teacher** | 2018 - 2019 | **[English Studio](https://englishstudio.id/)** | South Jakarta, Greater Jakarta
+### **English Teacher** | 2018 - 2019 | **[English Studio](https://englishstudio.id/)** | South Jakarta, Greater Jakarta
 
   - Designed and delivered effective lessons to various classes of students, ranging from General English to IELTS General Training.
   - Implemented regular mock tests and exercises to improve students' grammar and speaking skills, and provided constructive feedback to help them reach their goals.
   - Prepared lesson plans tailored to the needs and abilities of each class, and incorporated various teaching methods and materials to enhance student engagement and learning outcomes.
 
-> Certifications
+## Certifications
 
 - IELTS Band 6.0, 2022
 - [Go (Basic) Certificate](https://www.hackerrank.com/certificates/26764942e980)
@@ -91,7 +91,7 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 - [Node.js (Intermediate) Certificate](https://www.hackerrank.com/certificates/07bf888ca311)
 - [Node (Basic) Certificate](https://www.hackerrank.com/certificates/fbe0b27b6e4c)
 
-> Languages
+## Languages
 
 - English: Professional Working Proficiency
 - German: Beginner
