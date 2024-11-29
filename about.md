@@ -5,10 +5,6 @@ title: About
 
 Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brief summary of my education and work experience.
 
-## Education
-
-- Bachelor of Engineering, STMIK Jakarta, 2025
-
 ## Work Experience
 
 ### **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
@@ -83,6 +79,10 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
   1. Designed and delivered effective lessons to various classes of students, ranging from General English to IELTS General Training.
   2. Implemented regular mock tests and exercises to improve students' grammar and speaking skills, and provided constructive feedback to help them reach their goals.
   3. Prepared lesson plans tailored to the needs and abilities of each class, and incorporated various teaching methods and materials to enhance student engagement and learning outcomes.
+
+## Education
+
+- Bachelor of Engineering, STMIK Jakarta, 2025
 
 ## Certifications
 
