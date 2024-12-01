@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: how-to-rank-mutual-funds-using-key-performance-indicators
-category: finance, investing
+categories: [finance, investing]
 ---
 
 When choosing the best mutual funds, it's essential to evaluate them based on objective criteria that reflect both their performance and reliability. This guide explains how to rank mutual funds using **1-year return**, **expense ratio**, and **total AUM** (Assets Under Management), applicable to any investment platform.

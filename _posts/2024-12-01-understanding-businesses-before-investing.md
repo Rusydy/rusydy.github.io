@@ -2,7 +2,7 @@
 layout: post
 title: "A Beginner’s Guide to Fundamental Analysis: Understanding Businesses Before Investing"
 slug: understanding-businesses-before-investing
-category: finance, investing
+categories: [finance, investing]
 ---
 
 When investing in stocks, it’s crucial to understand a company’s business model and key performance drivers before diving into financial ratios and numbers. This guide will help beginners learn how to analyse a company fundamentally and make informed investment decisions.
