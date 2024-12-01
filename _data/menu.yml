@@ -25,6 +25,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: archive.html
 
+  - title: all tech posts
+    post_list:
+      category: tech
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: tech-archive.html
+
   - title: all finance posts
     post_list:
       category: finance

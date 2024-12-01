@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: install-elixir-with-asdf-on-centos-9
-category: tech, elixir
+categories: [tech, elixir]
 ---
 
 In this guide, we will walk you through the process of installing Erlang and Elixir using asdf on CentOS 9. asdf is a version manager that allows you to manage multiple runtime versions on a per-project basis. This makes it easy to switch between different versions of Erlang and Elixir for different projects.
