@@ -7,5 +7,5 @@ This is the source code of my personal blog, which is built with [Jekyll](https:
 1. Install Ruby and Bundler
 2. Clone this repository
 3. Run `bundle install`
-4. Run `bundle exec jekyll serve`
+4. Run `bundle exec jekyll build && bundle exec jekyll serve`
 5. Open your browser and navigate to `http://localhost:4000`
