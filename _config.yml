@@ -35,6 +35,11 @@ theme_config:
 sass:
   style: :compressed
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

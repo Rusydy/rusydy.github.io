@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+permalink: /resume
 ---
 
 Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brief summary of my education and work experience.

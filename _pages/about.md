@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 Hi there! I'm **Rusydy**, a passionate software engineer from the vibrant city of Jakarta, Indonesia. Welcome to my little corner of the internet where I share my journey, experiences, and thoughts on technology, coding, and life in general.
@@ -42,6 +43,6 @@ I love learning new languages and cultures. Here are the languages I speak:
 3. Japanese: Beginner
 4. Indonesian: Native
 
-## Let's Connect!
+## *Let's Connect!*
 
 Thank you for stopping by! I hope you enjoy reading my blog and learning more about my journey. Feel free to reach out if you want to connect, collaborate, or just have a chat about technology, coding, or anything else that interests you.
