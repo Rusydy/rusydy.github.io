@@ -43,11 +43,3 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about.html"
-  - title: "Resume"
-    url: "/resume.html"
