@@ -4,19 +4,19 @@ email: rusydymuhiddin@gmail.com
 url: https://rusydymuhiddin.github.io
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-    <section>
-      <p>
-        Hi, I'm Rusydy Muhiddin.
-      </p>
+  <section>
+    <p>
+      Hi, I'm Rusydy Muhiddin.
+    </p>
 
-      <p>
-        A software engineer who loves to write about technology, programming, and life.
-      </p>
+    <p>
+      A software engineer who loves to write about technology, programming, and life.
+    </p>
 
-      <p>
-        I'm currently living in Jakarta, Indonesia.
-      </p>
-    </section>
+    <p>
+      I'm currently living in Jakarta, Indonesia.
+    </p>
+  </section>
 
 permalink: /:slug.html
 
@@ -27,14 +27,22 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 remote_theme: riggraz/no-style-please
 
 theme_config:
-    appearance: "auto" # can be "light", "dark" or "auto"
-    back_home_text: "(home) ../" # customize text for homepage link in post layout
-    date_format: "%Y-%m-%d" # customize how date is formatted
-    show_description: true # show blog description in home page
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "(home) ../" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
 
 sass:
-    style: :compressed
+  style: :compressed
 
 plugins:
-    - jekyll-feed
-    - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
+
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about.html"
+  - title: "Resume"
+    url: "/resume.html"
