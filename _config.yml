@@ -12,6 +12,18 @@ description: > # description of the site (multiple lines allowed)
     <p>
       A software engineer who loves to write about anything I find interesting.
     </p>
+
+    <p>
+      more about me <a href="about.html">here</a> and my resume <a href="resume.html">here</a>.
+    </p>
+
+    <p>
+      if you want to connect, you can find me on <a href="https://github.com/Rusydy">GitHub</a>, <a href="https://linkedin.com/in/rusydy-muhiddin/">LinkedIn</a>, or just send me an <a href="mailto:rusydymuhiddin@gmail.com">email</a>.
+    </p>
+
+    <p>
+      Happy reading!
+    </p>
   </section>
 
 permalink: /:slug.html
