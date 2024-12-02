@@ -33,6 +33,31 @@ body {
   overflow-wrap: break-word;
 }
 
+#theme-toggle {
+  border: none;
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 3px 8px; /* Adjust padding */
+  z-index: 1000;
+  top: 140px; /* Adjust based on your image position */
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px; /* Adjust font size */
+  max-width: 200px; /* Set a maximum width */
+}
+
+#theme-toggle:hover + .tooltip,
+#theme-toggle:focus + .tooltip {
+  display: block;
+}
+
 .post-meta { text-align: right; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
