@@ -28,6 +28,7 @@ entries:
   - title: tech posts
     post_list:
       category: tech
+      limit: 5
       show_more: true
       show_more_text: See more posts...
       show_more_url: tech-archive.html
@@ -35,6 +36,7 @@ entries:
   - title: finance posts
     post_list:
       category: finance
+      limit: 5
       show_more: true
       show_more_text: See more posts...
       show_more_url: finance-archive.html
