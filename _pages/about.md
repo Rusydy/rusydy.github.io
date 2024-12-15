@@ -47,4 +47,4 @@ I love learning new languages and cultures. Here are the languages I speak:
 
 Thank you for stopping by! I hope you enjoy reading my blog and learning more about my journey. Feel free to reach out if you want to connect, collaborate, or just have a chat about technology, coding, or anything else that interests you.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/rusydy-muhiddin/), [Email](mailto:rusydymuhiddin@gmail.com), or [GitHub](github.com/rusydy). I look forward to hearing from you!
+You can find me on [LinkedIn](https://www.linkedin.com/in/rusydy-muhiddin/), [Email](mailto:rusydymuhiddin@gmail.com), or [GitHub](https://www.github.com/rusydy). I look forward to hearing from you!
