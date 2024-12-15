@@ -67,6 +67,6 @@ Subtle influence is most effective when combined with genuine efforts to collabo
 
 ---
 
-# Conclusion
+## Conclusion
 
 Incorporating subtle influence into workplace interactions can help navigate intensive conversations and achieve desired outcomes while maintaining trust and collaboration. By mastering these strategies, you can position yourself as a leader and problem-solver, fostering stronger relationships and professional growth.
