@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Install Elixir with asdf on CentOS 9"
 slug: install-elixir-with-asdf-on-centos-9
 categories: [tech, elixir]
 ---
