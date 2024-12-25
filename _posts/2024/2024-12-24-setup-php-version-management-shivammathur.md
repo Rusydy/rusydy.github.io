@@ -1,101 +1,71 @@
 ---
 layout: post
-title: "Setup Python Version Management: pyenv"
-slug: setup-python-version-management-pyenv
+title: "Setup PHP Version Management: shivammathur/homebrew-php"
+slug: setup-php-version-management-shivammathur
 categories: [tech, python]
 ---
 
-pyenv lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
+shivammathur/homebrew-php is a repository that provides PHP version management for macOS. It allows you to install multiple PHP versions and switch between them easily.
 
 ## Installation
 
-In this topic, we will install pyenv on macOS.
+In this topic, we will install shivammathur/homebrew-php on macOS.
 
-### Install pyenv
+### Install shivammathur/homebrew-php
 
-> [!NOTE] Before installing pyenv, make sure you have installed Homebrew. If you haven't installed Homebrew yet, you can follow the instructions [here](https://brew.sh/).
+> [!NOTE] Before installing shivammathur/homebrew-php, make sure you have installed Homebrew. If you haven't installed Homebrew yet, you can follow the instructions [here](https://brew.sh/).
 
-Install pyenv using Homebrew:
+Add the shivammathur/homebrew-php tap:
 
 ```bash
-brew update
-brew install pyenv
+brew tap shivammathur/php
 ```
 
-### Add pyenv to zsh profile
+### Install PHP
 
-Add the following lines to your `~/.zshrc` file:
+Install the desired PHP version using Homebrew:
 
 ```bash
-echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
-echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
-echo 'eval "$(pyenv init - zsh)"' >> ~/.zshrc
+# install PHP 8.4 for example
+brew install shivammathur/php/php@8.4
+
+# after installation, you have to link the PHP version
+brew link --overwrite --force shivammathur/php/php@8.4
+
+# check the PHP version
+php -v # should show PHP 8.4
 ```
 
-## Usage
+### Switch PHP version
 
-### List available Python versions
+To switch between PHP versions, you can use the `brew link` command:
 
 ```bash
-pyenv install --list
+# install PHP 7.2 for example, if you haven't installed it yet
+brew install shivammathur/php/php@7.2
+
+# switch to PHP 7.2
+brew link --overwrite --force shivammathur/php/php@7.2
+
+# check the PHP version
+php -v # should show PHP 7.2
 ```
 
-### Install Python
+### Upgrade PHP version
+
+To upgrade to a newer PHP version, you can use the `brew upgrade` command:
 
 ```bash
-pyenv install 3.12.8
-```
+# upgrade to PHP 8.5
+brew upgrade shivammathur/php/php@8.5
 
-### Set Python version globally
+# after upgrade, you have to link the PHP version
+brew link --overwrite --force shivammathur/php/php@8.5
 
-```bash
-pyenv global 3.12.8
-```
-
-### Set Python version locally
-
-```bash
-pyenv local 3.12.8
-```
-
-### Uninstall Python
-
-```bash
-pyenv uninstall 3.12.8
-```
-
-### List installed Python versions
-
-```bash
-pyenv versions
-```
-
-### Update pyenv
-
-```bash
-brew upgrade pyenv
-```
-
-## PIP
-
-### Install PIP
-
-To install PIP, you do that via the `get-pip.py` script. The script automatically downloads and installs the current pip package for Python.
-
-> [!IMPORTANT] Install pip via `get-pip.py` only with Python3 or later. This method doesn't work for earlier versions.
-
-```bash
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
-```
-
-To verify the installation, run the following command:
-
-```bash
-pip --version
+# check the PHP version
+php -v # should show PHP 8.5
 ```
 
 ## References
 
-- [pyenv/pyenv: Simple Python version management](https://realpython.com/intro-to-pyenv/#installing-pyenv), accessed on 24th December 2024.
-- [how to install pip on macos](https://phoenixnap.com/kb/install-pip-mac), accessed on 24th December 2024.
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php), accessed on 24th December 2024.
