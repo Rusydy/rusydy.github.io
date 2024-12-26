@@ -41,14 +41,14 @@ php -v # should show PHP 8.4
 To switch between PHP versions, you can use the `brew link` command:
 
 ```bash
-# install PHP 7.2 for example, if you haven't installed it yet
-brew install shivammathur/php/php@7.2
+# install PHP 8.3 for example, if you haven't installed it yet
+brew install shivammathur/php/php@8.3
 
-# switch to PHP 7.2
-brew link --overwrite --force shivammathur/php/php@7.2
+# switch to PHP 8.3
+brew link --overwrite --force shivammathur/php/php@8.3
 
 # check the PHP version
-php -v # should show PHP 7.2
+php -v # should show PHP 8.3
 ```
 
 ### Upgrade PHP version
