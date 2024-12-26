@@ -13,7 +13,9 @@ In this topic, we will install pyenv on macOS.
 
 ### Install pyenv
 
-> [!NOTE] Before installing pyenv, make sure you have installed Homebrew. If you haven't installed Homebrew yet, you can follow the instructions [here](https://brew.sh/).
+> [!NOTE]
+> Before installing pyenv, make sure you have installed Homebrew.
+> If you haven't installed Homebrew yet, you can follow the instructions [here](https://brew.sh/).
 
 Install pyenv using Homebrew:
 
@@ -82,7 +84,9 @@ brew upgrade pyenv
 
 To install PIP, you do that via the `get-pip.py` script. The script automatically downloads and installs the current pip package for Python.
 
-> [!IMPORTANT] Install pip via `get-pip.py` only with Python3 or later. This method doesn't work for earlier versions.
+> [!IMPORTANT]
+> Install pip via `get-pip.py` only with Python3 or later.
+> This method doesn't work for earlier versions.
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py

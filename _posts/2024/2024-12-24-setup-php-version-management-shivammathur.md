@@ -13,7 +13,9 @@ In this topic, we will install shivammathur/homebrew-php on macOS.
 
 ### Install shivammathur/homebrew-php
 
-> [!NOTE] Before installing shivammathur/homebrew-php, make sure you have installed Homebrew. If you haven't installed Homebrew yet, you can follow the instructions [here](https://brew.sh/).
+> [!NOTE]
+> Before installing shivammathur/homebrew-php, make sure you have installed Homebrew.
+> If you haven't installed Homebrew yet, you can follow the instructions [here](https://brew.sh/).
 
 Add the shivammathur/homebrew-php tap:
 
