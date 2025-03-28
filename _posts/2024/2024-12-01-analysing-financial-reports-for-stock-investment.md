@@ -17,7 +17,7 @@ This step-by-step guide will help you navigate through annual reports and financ
 - 📊 Financial reports are a verified source of data for analysis.
 - 🏢 It is important to know the company's profile and management.
 - 📉 Check the factors that affect the business industry being invested in.
-- 🔍 Pay attention to who the auditor is and the audit opinion on the financial reports.
+- 🔍 Pay attention to whom the auditor is and the audit opinion on the financial reports.
 - 💰 Analyse the income statement to understand the company's performance.
 - 📅 Check the company's liquidity to assess its ability to meet obligations.
 
@@ -82,7 +82,7 @@ Analyse the income statement to check:
 - Profitability: Compare this year’s profit with previous years.
 - **Profit margin:** Higher margins indicate efficient management.
 
-Visualised data, such as charts in investment apps like Ajaib, can simplify understanding.
+Visualized data, such as charts in investment apps like Ajaib, can simplify understanding.
 
 ### **E. Revenue and Expense Sources**
 
@@ -115,4 +115,4 @@ Analysing financial reports may seem overwhelming initially, but by breaking it 
 
 Stay tuned for more tips and tools to enhance your investment journey! If you found this guide helpful, share it with fellow investors. Happy investing!
 
-source: [8 Hal Penting Ketika Baca Laporan Keuangan \| Analisis Fundamental Saham](https://www.youtube.com/watch?v=ki7Rrk474F8)
+Source: [8 Hal Penting Ketika Baca Laporan Keuangan \| Analisis Fundamental Saham](https://www.youtube.com/watch?v=ki7Rrk474F8)

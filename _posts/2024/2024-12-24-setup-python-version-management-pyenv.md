@@ -5,7 +5,7 @@ slug: setup-python-version-management-pyenv
 categories: [tech, python]
 ---
 
-pyenv lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
+Pyenv lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
 
 ## Installation
 
@@ -102,4 +102,4 @@ pip --version
 ## References
 
 - [pyenv/pyenv: Simple Python version management](https://realpython.com/intro-to-pyenv/#installing-pyenv), accessed on 24th December 2024.
-- [how to install pip on macos](https://phoenixnap.com/kb/install-pip-mac), accessed on 24th December 2024.
+- [How to install pip on macOS](https://phoenixnap.com/kb/install-pip-mac), accessed on 24th December 2024.

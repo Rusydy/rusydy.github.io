@@ -1,0 +1,34 @@
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QCurrently, I'm working as a Software Engineer at PT Mid Solusi Nusantara - Mekari.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QBefore joining Mekari, I had the opportunity to work with some amazing teams at Koinworks and SF Group.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QI'm currently pursuing a Bachelor of Engineering at STMIK Jakarta, set to graduate in 2025.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QHeksa Digital Mitra Informasi.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSarindo Media Telekomunikasi.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QTower Bersama Infrastructure Tbk\nCreated and maintained a KIOSK application using Kotlin for DPR RI (House of Representatives of the Indonesian Republic).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QHino Motors Sales Indonesia (HMSI)\nContributor to scrcpy-plus, an open-source project for remotely controlling Android devices\nCreated a Task Management System using Laravel and Vue.js for admin site for PT.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QTower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi\nCreated platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis\nCreated the mobile app for field engineers using Kotlin and Jetpack Compose for PT.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QTower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi\nIT Consultant for PT.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QEnkripa Teknologi Indonesia regarding ISO 27001 preparation under PT.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSoftware Engineer | 04/2022–06/2024 | PT Sejahtera Lunaria Annua - Koinworks | South Jakarta, Greater Jakarta\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QTrained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QCreated mock procedures using go-mock, SQL-mock, and go-test on KoinBPR (Koinworks' Conventional Bank) and KoinNeo (Koinworks' Digital Bank).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSoftware Engineer | 11/2021 - 04/2022 | PT Surya Fajar Urun Dana (SF Group) | South Jakarta, Greater Jakarta\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QBackend Developer | 01/2021 - 04/2022 | Pigijo (SF Group) | South Jakarta, Greater Jakarta\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QDewa Catur Solusi\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSoftware Engineer | 11/2021–04/2022 | PT Surya Fajar Urun Dana (SF Group) | South Jakarta, Greater Jakarta\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QBackend Developer | 01/2021–04/2022 | Pigijo (SF Group) | South Jakarta, Greater Jakarta\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpyenv/pyenv: Simple Python version management, accessed on 24th December 2024.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qshivammathur/homebrew-php is a repository that provides PHP version management for macOS.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QIn this topic, we will install shivammathur/homebrew-php on macOS.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QInstall shivammathur/homebrew-php\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Q!NOTE Before installing shivammathur/homebrew-php, make sure you have installed Homebrew.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QAdd the shivammathur/homebrew-php tap:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qshivammathur/homebrew-php, accessed on 24th December 2024.\\E$"}
+{"rule":"DIFFUSE_TENSIONS","sentence":"^\\QYour manager's presence helps diffuse tension, but you also ensure that your voice is heard and valued.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QFor Sido Muncul, herbal products account for 60% of revenue, while food and beverages make up 30%.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSido Muncul depends on consumer demand for herbal products.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSource: Cara Baca Laporan Keuangan Untuk Memahami Perusahaan (Analisa Fundamental Untuk Pemula)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QIn this blog post, we'll delve into fundamental analysis, a proven technique used by legendary investors like Warren Buffett, Charlie Munger, and Lo Kheng Hong.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QBusiness history: For instance, SIDO Muncul began as a home-based business in 1930 and has diversified its operations.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QVisualized data, such as charts in investment apps like Ajaib, can simplify understanding.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QDownload Reports: Use tools like Ajaib's calendar feature to access financial reports.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSource: 8 Hal Penting Ketika Baca Laporan Keuangan \\| Analisis Fundamental Saham\\E$"}

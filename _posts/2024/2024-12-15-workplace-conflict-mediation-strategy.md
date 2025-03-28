@@ -15,7 +15,7 @@ Sensing the situation, you pause the discussion and call for a separate meeting,
 
 ### Influence Through Structured Communication
 
-In this scenario, you adeptly used the opportunity to guide the conversation toward a favorable resolution while maintaining an image of collaboration and openness. This approach involves subtle tactics to shape perceptions and outcomes without appearing overbearing. By positioning the discussion as a mutual alignment effort, you avoid confrontation while subtly steering the narrative.
+In this scenario, you adeptly used the opportunity to guide the conversation toward a favourable resolution while maintaining an image of collaboration and openness. This approach involves subtle tactics to shape perceptions and outcomes without appearing overbearing. By positioning the discussion as a mutual alignment effort, you avoid confrontation while subtly steering the narrative.
 
 ### The Psychology Behind Your Actions
 
@@ -28,7 +28,7 @@ Your actions reflect key psychological strategies:
    - Highlighting your willingness to compromise while emphasizing your contributions subtly strengthens your standing. Others see you as cooperative and solution-focused.
 
 3. **Managing Perceptions:**
-   - Presenting the situation as a collective effort rather than a conflict helps shift the focus from disagreement to problem-solving, casting you in a favorable light.
+   - Presenting the situation as a collective effort rather than a conflict helps shift the focus from disagreement to problem-solving, casting you in a favourable light.
 
 ### When Is This Approach Appropriate?
 
@@ -49,10 +49,10 @@ However, overuse or misuse of this approach can risk appearing manipulative. It�
    - Frame the conversation in a way that emphasizes shared goals and minimizes discord (e.g., "Let’s find the best way to deliver value to the client.").
 
 3. **Leverage Authority Wisely:**
-   - Involve your manager not as a decision-maker but as a facilitator, ensuring your ideas are presented favorably without appearing overly assertive.
+   - Involve your manager not as a decision-maker but as a facilitator, ensuring your ideas are presented favourably without appearing overly assertive.
 
 4. **Demonstrate Empathy:**
-   - Acknowledge your coworker’s points to disarm potential resistance, then build on them to support your perspective. for example, "I see your concern about the timeline, and I believe we can address it by..."
+   - Acknowledge your coworker’s points to disarm potential resistance, then build on them to support your perspective. For example, "I see your concern about the timeline, and I believe we can address it by..."
 
 5. **Be Generous with Credit:**
    - Recognize the contributions of others while subtly tying the success of the project to your involvement. This enhances your standing without creating conflict. For example, "I appreciate your insights, and I believe by combining our approaches, we can achieve a stronger outcome."
@@ -62,7 +62,7 @@ However, overuse or misuse of this approach can risk appearing manipulative. It�
 Subtle influence is most effective when combined with genuine efforts to collaborate. Here’s how to balance:
 
 - **Focus on Mutual Gains:** Frame your perspective as benefiting the team or project.
-- **Cultivate Relationships:** Build rapport with coworkers outside of high-stakes discussions to create goodwill.
+- **Cultivate Relationships:** Build rapport with coworkers outside high-stakes discussions to create goodwill.
 - **Be Transparent When Necessary:** Strategic actions are most effective when grounded in integrity. Ensure your motives align with team goals.
 
 ---

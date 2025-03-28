@@ -12,7 +12,7 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 
 1. Provide detailed CS Ticket Documentation using Confluence and Jira, streamlining communication between Mekari's customer service and development teams.
 2. Enhanced and maintained the full-stack repository for Mekari's accounting software (Jurnal) with Ruby on Rails, Kafka, MySQL, and Redis.
-3. Improved and managed the microservices repository for Mekari's accounting software (Jurnal) using Go, Kafka, MySQL, and Redis.
+3. Improved and managed the microservices repositories for Mekari's accounting software (Jurnal) using Go, Kafka, MySQL, and Redis.
 4. Upgraded and maintained the frontend repository for Mekari's accounting software (Jurnal) with Vue.js and TypeScript.
 
 ### **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
@@ -30,10 +30,10 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 11. Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
 12. IT Consultant for PT. Enkripa Teknologi Indonesia regarding ISO 27001 preparation under PT. Dewa Catur Solusi
 
-### **Software Engineer** | 04/2022 - 06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
+### **Software Engineer** | 04/2022–06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
 
 1. Trained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.
-2. Led a team of five to create the CS-Ticket Documentation, which included case categorisation, methods, tools, and case studies.
+2. Led a team of five to create the CS-Ticket Documentation, which included case categorization, methods, tools, and case studies.
 3. Created mock procedures using go-mock, SQL-mock, and go-test on KoinBPR (Koinworks' Conventional Bank) and KoinNeo (Koinworks' Digital Bank).
 4. Enhanced user registration and user core data for Core Bank Procedure using Echo, PostgreSQL, and Redis.
 5. Worked with the data team to solve data-related issues, such as discrepancies in balance with third-parties, using Spreadsheet, SQL, and Python.
@@ -49,9 +49,9 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 15. Contributed to create spreadsheet bots using Google Sheets API, Google Drive API, PostgreSQL and Node.js for Koinworks' internal use.
 16. Created a chatbot using WhatsApp Cloud API, WhatsApp Business Flow, PostgreSQL, and Python (Flask) for Koinworks' registration process and marketing.
 
-### **Software Engineer** | 11/2021 - 04/2022 | **[PT Surya Fajar Urun Dana (SF Group)](https://sfund.id/)** | South Jakarta, Greater Jakarta
+### **Software Engineer** | 11/2021–04/2022 | **[PT Surya Fajar Urun Dana (SF Group)](https://sfund.id/)** | South Jakarta, Greater Jakarta
 
-1. Implemented and managed host-to-host connections for banking transactions using virtual account and hold-and-unhold APIs provided by Danamon Bank.
+1. Implemented and managed host-to-host connections for banking transactions using virtual account and hold-and-uphold APIs provided by Danamon Bank.
 2. Implemented and managed host-to-host connections for company/fundraiser registration module using a third-party API provided by ALUDI (Indonesian Association for Security Crowdfunding).
 3. Designed UI/UX on admin site using PHP Blade, jQuery, and Vue.js.
 4. Managed stack migration from legacy project written using PHP Laravel to Node.js using Nest.js framework due to performance issues.
@@ -63,19 +63,19 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 10. Conducted fraud testing and UAT on banking API (Danamon Bank).
 11. Wrote technical documentation, including user guides, admin features, and code architectures, to ensure a secure, clean, clear, scalable, and well-documented code base.
 
-### **Backend Developer** | 01/2021 - 04/2022 | **[Pigijo (SF Group)](https://pigijo.com/)** | South Jakarta, Greater Jakarta
+### **Backend Developer** | 01/2021–04/2022 | **[Pigijo (SF Group)](https://pigijo.com/)** | South Jakarta, Greater Jakarta
 
 1. Developed analytical dashboard to monitor operational efficiency and developed new features such as ordering flight tickets and payment methods.
 2. Maintained products on the production website.
 3. Provided more accurate information to customers using various MongoDB queries.
 
-### **English Teacher** | 2019 - 2020 | **English Centre** | South Jakarta, Greater Jakarta
+### **English Teacher** | 2019–2020 | **English Centre** | South Jakarta, Greater Jakarta
 
 1. Provided daily academic support and guidance to a diverse group of 8 students, including assistance with assignments and projects, and addressing any questions or concerns they had throughout the school day.
 2. Assisted in the preparation of lesson plans, incorporating various teaching methods and activities to enhance student engagement and learning outcomes.
 3. Monitored and recorded the progress of 40 students, evaluated their performance, and documented their academic achievements.
 
-### **English Teacher** | 2018 - 2019 | **[English Studio](https://englishstudio.id/)** | South Jakarta, Greater Jakarta
+### **English Teacher** | 2018–2019 | **[English Studio](https://englishstudio.id/)** | South Jakarta, Greater Jakarta
 
 1. Designed and delivered effective lessons to various classes of students, ranging from General English to IELTS General Training.
 2. Implemented regular mock tests and exercises to improve students' grammar and speaking skills, and provided constructive feedback to help them reach their goals.

@@ -13,7 +13,7 @@ When investing in stocks, it’s crucial to understand a company’s business mo
 
 - 📊 Understanding financial statements aids in identifying promising stocks for investment.
 - 🔍 Focus on the business model before analysing numbers and ratios.
-- 📈 Utilise sources such as annual reports and analyses from securities firms.
+- 📈 Utilize sources such as annual reports and analyses from securities firms.
 - 🏢 Importance of knowing revenue segments and performance influencing factors.
 - 💡 Avoid making investment decisions based solely on ratios.
 - 📚 Practise analysing annual reports to gain a better understanding of companies.
@@ -60,7 +60,7 @@ Here are three essential steps to start analysing a company fundamentally:
 
    - Determine the key segments or products contributing to revenue and profit.
    - Example:
-     - MAP’s revenue largely comes from **specialty stores** (70%).
+     - MAP’s revenue largely comes from **speciality stores** (70%).
      - For Sido Muncul, **herbal products** account for 60% of revenue, while food and beverages make up 30%.
 
 3. **Identify Key Drivers**:
@@ -76,11 +76,11 @@ Let’s analyse MAP as an example:
 1. **Business Model**:
 
    - MAP operates as an official retailer for international brands.
-   - Revenue primarily comes from specialty stores.
+   - Revenue primarily comes from speciality stores.
 
 2. **Segments**:
 
-   - Revenue split includes specialty stores, department stores, and others, with specialty stores contributing the most.
+   - Revenue split includes speciality stores, department stores, and others, with speciality stores contributing the most.
 
 3. **Key Drivers**:
    - Mall traffic is a significant driver for MAP’s performance. An increase in visitors boosts sales, while rising rental costs or fewer visitors could negatively impact profits.
@@ -97,4 +97,4 @@ Once you’ve understood the business model, segments, and key drivers, the next
 
 By focusing on a company’s fundamentals, you can make informed investment decisions. Start with the basics—understand the business, explore its segments, and identify what drives its performance. With time and practice, you’ll develop the confidence to analyse numbers and ratios effectively.
 
-source: [Cara Baca Laporan Keuangan Untuk Memahami Perusahaan (Analisa Fundamental Untuk Pemula)](https://www.youtube.com/watch?v=d0Tyfk3B2BA)
+Source: [Cara Baca Laporan Keuangan Untuk Memahami Perusahaan (Analisa Fundamental Untuk Pemula)](https://www.youtube.com/watch?v=d0Tyfk3B2BA)
