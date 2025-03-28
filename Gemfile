@@ -8,5 +8,6 @@ gem "csv"
 gem "base64"
 gem "bigdecimal"
 gem "webrick"
+gem 'sass-embedded', '~> 1.86'
 
 gemspec
