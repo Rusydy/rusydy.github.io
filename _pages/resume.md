@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume
 ---
 
-Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brief summary of my education and work experience.
+Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brief summary of my education and work experience and here is the PDF version [here](/assets/resume.pdf).
 
 ## Work Experience
 
@@ -15,7 +15,7 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 3. Improved and managed the microservices repositories for Mekari's accounting software (Jurnal) using Go, Kafka, MySQL, and Redis.
 4. Upgraded and maintained the frontend repository for Mekari's accounting software (Jurnal) with Vue.js and TypeScript.
 
-### **Freelance Software Engineer** | 01/2022 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
+### **Freelance Software Engineer** | 01/2021 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
 
 1. Contributed to creating APIs and databases for KPI applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
 2. Contributed to creating APIs, databases, and connections to printers using Laravel Backpack and PostgreSQL for Avatar Regulated Agent.
@@ -29,6 +29,8 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 10. Created platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis
 11. Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
 12. IT Consultant for PT. Enkripa Teknologi Indonesia regarding ISO 27001 preparation under PT. Dewa Catur Solusi
+13. Created a Export Tracking System using CodeIgniter, Tailwind CSS, Docker, and MySQL for PT. Upstrace Teknologi Indonesia
+14. Contributed to designing UI/UX of Export Tracking System using Figma and Figjam for PT. Upstrace Teknologi Indonesia
 
 ### **Software Engineer** | 04/2022–06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
 
