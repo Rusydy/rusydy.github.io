@@ -2,7 +2,7 @@
 layout: post
 title: "Simplify Your Stack: The Case for Postgres as a Full-Stack Platform"
 slug: simplify-your-stack-postgres-full-stack-platform
-categories: [life-in-20s, jakarta]
+categories: [tech, postgres]
 ---
 
 Modern web development often feels like a paradox. We have an unprecedented number of powerful tools, frameworks, and services at our disposal, yet building and deploying even a simple application has never felt more complex. The dream of a lean MVP can quickly devolve into a nightmare of juggling a dozen different services, each with its own pricing, configuration, and learning curve.
