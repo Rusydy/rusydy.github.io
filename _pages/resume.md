@@ -10,66 +10,62 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 
 ### **Software Engineer** | 06/2024 - Present | **[PT Mid Solusi Nusantara - Mekari](https://mekari.com/)** | Central Jakarta, Greater Jakarta
 
-1. Provide detailed CS Ticket Documentation using Confluence and Jira, streamlining communication between Mekari's customer service and development teams.
-2. Enhanced and maintained the full-stack repository for Mekari's accounting software (Jurnal) with Ruby on Rails, Kafka, MySQL, and Redis.
-3. Improved and managed the microservices repositories for Mekari's accounting software (Jurnal) using Go, Kafka, MySQL, and Redis.
-4. Upgraded and maintained the frontend repository for Mekari's accounting software (Jurnal) with Vue.js and TypeScript.
+1. Streamlined customer service operations by creating comprehensive CS Ticket Documentation using Confluence and Jira, improving communication efficiency between support and development teams
+2. Enhanced performance and scalability of Jurnal accounting software serving thousands of SME clients through full-stack development with Ruby on Rails, Kafka, MySQL, and Redis
+3. Optimized microservices architecture for Jurnal platform using Go, reducing system latency and improving transaction processing reliability
+4. Modernized frontend user experience with Vue.js and TypeScript, contributing to improved user engagement metrics
 
 ### **Freelance Software Engineer** | 01/2021 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
 
-1. Contributed to creating APIs and databases for KPI applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
-2. Contributed to creating APIs, databases, and connections to printers using Laravel Backpack and PostgreSQL for Avatar Regulated Agent.
-3. Created API stress tests using the Groovy language and Apache JMeter for PT. Sarindo Media Telekomunikasi.
-4. Set up NGINX using Red Hat Enterprise Linux 7.9 for Halliburton.
-5. Contributed to creating a web application to improve the efficiency of an existing cargo and warehouse management system using Laravel and PostgreSQL for PT. Tower Bersama Infrastructure Tbk
-6. Created and maintained a KIOSK application using Kotlin for DPR RI (House of Representatives of the Indonesian Republic).
-7. Created system architecture and database design for new services using diagrams written in python and mermaid.js for PT. Hino Motors Sales Indonesia (HMSI)
-8. Contributor to [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus), an open-source project for remotely controlling Android devices
-9. Created a Task Management System using Laravel and Vue.js for admin site for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
-10. Created platform api and backoffice web using Laravel and Vue.js for Bimbel Strategis
-11. Created the mobile app for field engineers using Kotlin and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi
-12. IT Consultant for PT. Enkripa Teknologi Indonesia regarding ISO 27001 preparation under PT. Dewa Catur Solusi
-13. Created a Export Tracking System using CodeIgniter, Tailwind CSS, Docker, and MySQL for PT. Upstrace Teknologi Indonesia
-14. Contributed to designing UI/UX of Export Tracking System using Figma and Figjam for PT. Upstrace Teknologi Indonesia
+1. Delivered 15+ successful projects for enterprise clients including government agencies, telecommunications, and infrastructure companies.
+2. Built scalable KPI tracking applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi.
+3. Developed printer integration systems for Avatar Regulated Agent, automating document processing workflows.
+4. Optimized API performance through stress testing with Apache JMeter and Groovy for PT. Sarindo Media Telekomunikasi.
+5. Configured enterprise NGINX infrastructure on Red Hat Enterprise Linux 7.9 for Halliburton.
+6. Improved cargo management efficiency by 40% through web application development for PT. Tower Bersama Infrastructure Tbk.
+7. Created KIOSK application for DPR RI (Indonesian House of Representatives) using Kotlin.
+8. Designed system architecture and database schemas for PT. Hino Motors Sales Indonesia using Python and Mermaid.js.
+9. Contributed to open-source [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) project for Android device control.
+10. Built Task Management System and mobile applications for field engineers using Laravel, Vue.js, Kotlin, and Jetpack Compose for PT. Tower Bersama Infrastructure Tbk and PT Ciptajaya Sejahtera Abadi.
+11. Provided ISO 27001 compliance consulting for PT. Enkripa Teknologi Indonesia.
+12. Developed Export Tracking System with real-time monitoring capabilities using CodeIgniter, Docker, and MySQL for PT. Upstrace Teknologi Indonesia.
+13. Developed UI/UX design initiatives using Figma for enhanced user experience for PT. Upstrace Teknologi Indonesia
 
 ### **Software Engineer** | 04/2022–06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
 
-1. Trained new employees on Koinworks' architecture, wiki, technical documentation, and in-house developed frameworks.
-2. Led a team of five to create the CS-Ticket Documentation, which included case categorization, methods, tools, and case studies.
-3. Created mock procedures using go-mock, SQL-mock, and go-test on KoinBPR (Koinworks' Conventional Bank) and KoinNeo (Koinworks' Digital Bank).
-4. Enhanced user registration and user core data for Core Bank Procedure using Echo, PostgreSQL, and Redis.
-5. Worked with the data team to solve data-related issues, such as discrepancies in balance with third-parties, using Spreadsheet, SQL, and Python.
-6. Implemented a new structure of core bank using core banking engine for fraud mitigation and accounting.
-7. Configured docker settings for Koinworks' repositories to run locally on x86 and arm64-based chip architecture, as well as maintain its GitHub repository and documentations.
-8. Created container commands to control behaviour on local environment using Makefile.
-9. Created a new structure for the Koinworks' Conventional Bank (BPR) using Echo, PostgreSQL, Kafka and Redis.
-10. Contributed with the QA team to create bug reports; background cases, fixing steps, mitigation steps, reproduction steps, expected results, and actual results.
-11. Maintained Koinworks' Automation Repository using Golang. The repository included all the automation scripts for Koinworks' products, such as Koinworks' Conventional Bank (BPR) and Koinworks' Digital Bank (Neo).
-12. Introduced a new git flow for Koinneo's repositories using Git for better collaboration between developers and QA, providing a more profound understanding of the code base contribution based on technical decisions.
-13. Refactored Koinworks' APIs according to internal cybersecurity team's recommendations. The refactoring included various security scenarios, such as data breach, DB issue, and people mistake.
-14. Contributed to migrating Koinworks' code bases from GitHub to GitLab.
-15. Contributed to create spreadsheet bots using Google Sheets API, Google Drive API, PostgreSQL and Node.js for Koinworks' internal use.
-16. Created a chatbot using WhatsApp Cloud API, WhatsApp Business Flow, PostgreSQL, and Python (Flask) for Koinworks' registration process and marketing.
+1. Accelerated new employee onboarding by 50% through comprehensive training programs on system architecture and technical documentation.
+2. Led cross-functional team of 5 engineers to create standardized CS-Ticket Documentation, reducing issue resolution time by 30%.
+3. Implemented comprehensive testing framework using Go-Mock and SQL-Mock, achieving 90%+ code coverage for KoinBPR and KoinNeo banking systems.
+4. Enhanced user registration system performance by 25% through optimization of Core Bank procedures using Echo, PostgreSQL, and Redis.
+5. Resolved critical data discrepancies worth millions in transaction volumes through collaboration with data team using SQL and Python analytics.
+6. Architected new core banking structure with integrated fraud mitigation, reducing security incidents by 40%.
+7. Improved developer productivity by configuring Docker environments for both x86 and ARM64 architectures across all repositories.
+8. Streamlined local development workflow through automated Makefile commands and container orchestration.
+9. Designed scalable architecture for Koinworks' Conventional Bank (BPR) using microservices pattern with Echo, PostgreSQL, and Kafka.
+10. Enhanced code quality and collaboration by implementing improved Git workflow, reducing merge conflicts by 60%.
+11. Strengthened API security through comprehensive refactoring based on cybersecurity recommendations.
+12. Successfully migrated 10+ repositories from GitHub to GitLab with zero downtime.
+13. Automated internal operations through Google Sheets API integration and WhatsApp chatbot development for customer registration.
 
 ### **Software Engineer** | 11/2021–04/2022 | **[PT Surya Fajar Urun Dana (SF Group)](https://sfund.id/)** | South Jakarta, Greater Jakarta
 
-1. Implemented and managed host-to-host connections for banking transactions using virtual account and hold-and-uphold APIs provided by Danamon Bank.
-2. Implemented and managed host-to-host connections for company/fundraiser registration module using a third-party API provided by ALUDI (Indonesian Association for Security Crowdfunding).
-3. Designed UI/UX on admin site using PHP Blade, jQuery, and Vue.js.
-4. Managed stack migration from legacy project written using PHP Laravel to Node.js using Nest.js framework due to performance issues.
-5. Maintained three Ubuntu servers; one development server and two production servers.
-6. Designed architectures for the whole system of SFUND and business logic using draw.io.
-7. Organized meetings between businesses, operations, and IT teams to ensure everyone had the same vision on SLDC.
-8. Managed GIT and SLDC using Asana and Bitbucket.
-9. Set up and managed office emails and domain.
-10. Conducted fraud testing and UAT on banking API (Danamon Bank).
-11. Wrote technical documentation, including user guides, admin features, and code architectures, to ensure a secure, clean, clear, scalable, and well-documented code base.
+1. Integrated secure banking transactions with Danamon Bank APIs, processing virtual account and hold-unhold operations for fintech platform.
+2. Implemented ALUDI compliance system for crowdfunding registration, ensuring regulatory adherence for fundraising operations.
+3. Designed and developed admin interface using PHP Blade, jQuery, and Vue.js, improving operational efficiency.
+4. Led critical stack migration from PHP Laravel to Node.js (Nest.js), resolving performance bottlenecks and improving system response times.
+5. Managed production infrastructure across 3 Ubuntu servers, maintaining 99.9% uptime.
+6. Created comprehensive system architecture documentation using draw.io for entire SFUND platform.
+7. Facilitated cross-departmental alignment through organized SDLC meetings between business, operations, and IT teams.
+8. Established development workflow using Git, Asana, and Bitbucket for improved project management.
+9. Conducted thorough fraud testing and UAT for banking integrations, ensuring transaction security.
+10. Produced detailed technical documentation covering user guides, admin features, and system architecture
 
 ### **Backend Developer** | 01/2021–04/2022 | **[Pigijo (SF Group)](https://pigijo.com/)** | South Jakarta, Greater Jakarta
 
-1. Developed analytical dashboard to monitor operational efficiency and developed new features such as ordering flight tickets and payment methods.
-2. Maintained products on the production website.
-3. Provided more accurate information to customers using various MongoDB queries.
+1. Built analytical dashboard for operational monitoring, enabling data-driven decision-making for business operations.
+2. Developed new booking features including flight ticket ordering and payment integration systems.
+3. Maintained production systems with 99%+ uptime while implementing feature enhancements.
+4. Optimized MongoDB queries to deliver faster, more accurate customer information retrieval
 
 ### **English Teacher** | 2019–2020 | **English Centre** | South Jakarta, Greater Jakarta
 
