@@ -5,7 +5,9 @@ slug: motorcycle-tax-in-indonesia
 categories: [life-in-20s, jakarta]
 ---
 
-Memperpanjang pajak tahunan motor adalah kewajiban bagi setiap pemilik kendaraan. Agar prosesnya berjalan lancar tanpa bolak-balik, ada baiknya Anda mempersiapkan semuanya dengan baik. Berikut adalah panduan langkah demi langkah yang jelas dan mudah diikuti berdasarkan prosedur umum di Gedung Samsat.
+Memperpanjang pajak tahunan motor adalah kewajiban bagi setiap pemilik kendaraan. Agar prosesnya berjalan lancar tanpa bolak-balik, ada baiknya Anda mempersiapkan semuanya dengan baik. Berikut adalah panduan langkah demi langkah yang jelas dan mudah diikuti berdasarkan prosedur umum di Gedung Samsat. Per tahun 2025, panduan ini masih relevan, meskipun beberapa prosedur diklaim sudah online, namun kenyataannya banyak kantor Samsat yang masih mengharuskan kunjungan langsung.
+
+Panduan ini dilakukan di Jakarta, Indonesia, dan prosedurnya mungkin sedikit berbeda di daerah lain, tetapi alur keseluruhannya seharusnya serupa. **Perhatikan kemungkinan perubahan prosedur akibat pembaruan regulasi atau kebijakan kantor, atau praktik korupsi/suap yang mungkin mempengaruhi proses.**
 
 ---
 
@@ -18,7 +20,7 @@ Langkah pertama adalah memastikan semua dokumen yang dibutuhkan sudah lengkap. I
 - **KTP Asli** dan 1 lembar fotokopi.
 - **STNK Asli** dan 1 lembar fotokopi.
 - **BPKB Asli** dan 1 lembar fotokopi (untuk beberapa Samsat atau kondisi tertentu, fotokopi BPKB mungkin diperlukan, sebaiknya siapkan untuk berjaga-jaga).
-- **TBPKP (Tanda Bukti Pelunasan Kewajiban Pembayaran)** atau Struk Pajak tahun sebelumnya.
+- **TBPKP (Tanda Bukti Pelunasan Kewajiban Pembayaran)** atau Struk Pajak tahun sebelumnya jika ada.
 
 **Proses di Lantai 2 (Pengesahan Pajak 1 Tahun):**
 

@@ -5,7 +5,9 @@ slug: motorcycle-tax-renewal-guide-indonesia
 categories: [life-in-20s, jakarta]
 ---
 
-Renewing your motorcycle's annual tax is a mandatory obligation for every vehicle owner. To ensure the process runs smoothly without back-and-forth trips, it's essential to prepare everything properly. Here's a clear and easy-to-follow step-by-step guide based on general procedures at Samsat buildings.
+Renewing your motorcycle's annual tax is a mandatory obligation for every vehicle owner. To ensure the process runs smoothly without back-and-forth trips, it's essential to prepare everything properly. Here's a clear and easy-to-follow step-by-step guide based on general procedures at Samsat buildings. As of 2025, this guide still remains relevant, eventhough some procedures are claim to be online, but in reality, many Samsat offices still require in-person visits.
+
+This guide conducted in Jakarta, Indonesia, and the procedures might slightly vary in different regions, but the overall flow should be similar. **Be aware of possible changes in procedures due to updates in regulations or office policies, or corruption/bribery practices that might affect the process.**
 
 ---
 
@@ -18,7 +20,7 @@ The first step is ensuring all required documents are complete. This is key to p
 - **Original ID Card (KTP)** and 1 photocopy.
 - **Original STNK** (Vehicle Registration Certificate) and 1 photocopy.
 - **Original BPKB** (Vehicle Ownership Document) and 1 photocopy (for some Samsat offices or specific conditions, BPKB photocopy might be required, so it's better to prepare it just in case).
-- **TBPKP (Tax Payment Proof)** or previous year's tax receipt.
+- **TBPKP (Tax Payment Proof)** or previous year's tax receipt if available.
 
 **Process on 2nd Floor (1-Year Tax Validation):**
 
