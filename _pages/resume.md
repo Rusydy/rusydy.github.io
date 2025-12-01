@@ -17,20 +17,18 @@ Hi! I'm **Rusydy**, a software engineer from Jakarta, Indonesia. Below is a brie
 
 ### **Freelance Software Engineer** | 01/2021 - Present | **Self-Employed** | South Jakarta, Greater Jakarta
 
-1.  Maintainer of an open-source language version manager [asdf-php](https://github.com/asdf-community/asdf-php)
-2.  Contributed to open-source [scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) project for Android device control
-3.  Delivered 15+ successful projects for enterprise clients including government agencies, telecommunications, and infrastructure companies
-4.  Built scalable KPI tracking applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi
-5.  Developed printer integration systems for Avatar Regulated Agent, automating document processing workflows
-6.  Optimized API performance through stress testing with Apache JMeter and Groovy for PT. Sarindo Media Telekomunikasi
-7.  Configured enterprise NGINX infrastructure on Red Hat Enterprise Linux 7.9 for Halliburton
-8.  Improved cargo management efficiency by 40% through web application development for PT. Tower Bersama Infrastructure Tbk
-9.  Created KIOSK application for DPR RI (Indonesian House of Representatives) using Kotlin
-10. Designed system architecture and database schemas for PT. Hino Motors Sales Indonesia using Python and Mermaid.js
-11. Built Task Management System and mobile applications for field engineers using Laravel, Vue.js, Kotlin, and Jetpack Compose
-12. Provided ISO 27001 compliance consulting for PT. Enkripa Teknologi Indonesia
-13. Developed Export Tracking System with real-time monitoring capabilities using CodeIgniter, Docker, and MySQL for PT. Upstrace Teknologi Indonesia
-14. Developed UI/UX design initiatives using Figma for enhanced user experience for PT. Upstrace Teknologi Indonesia
+1.   Delivered 15+ successful projects for enterprise clients including government agencies, telecommunications, and infrastructure companies
+2.   Built scalable KPI tracking applications using Laravel and PostgreSQL for SPI-Jasa Raharja and PT. Heksa Digital Mitra Informasi
+3.   Developed printer integration systems for Avatar Regulated Agent, automating document processing workflows
+4.   Optimized API performance through stress testing with Apache JMeter and Groovy for PT. Sarindo Media Telekomunikasi
+5.   Configured enterprise NGINX infrastructure on Red Hat Enterprise Linux 7.9 for Halliburton
+6.   Improved cargo management efficiency by 40% through web application development for PT. Tower Bersama Infrastructure Tbk
+7.   Created KIOSK application for DPR RI (Indonesian House of Representatives) using Kotlin
+8.   Designed system architecture and database schemas for PT. Hino Motors Sales Indonesia using Python and Mermaid.js
+9.   Built Task Management System and mobile applications for field engineers using Laravel, Vue.js, Kotlin, and Jetpack Compose
+10.  Provided ISO 27001 compliance consulting for PT. Enkripa Teknologi Indonesia
+11.  Developed Export Tracking System with real-time monitoring capabilities using CodeIgniter, Docker, and MySQL for PT. Upstrace Teknologi Indonesia
+12.  Developed UI/UX design initiatives using Figma for enhanced user experience for PT. Upstrace Teknologi Indonesia
 
 ### **Software Engineer** | 04/2022–06/2024 | **[PT Sejahtera Lunaria Annua - Koinworks](https://koinworks.com/)** | South Jakarta, Greater Jakarta
 
